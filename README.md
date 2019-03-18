@@ -8,7 +8,7 @@ This image (*frame-000000.color.jpg* of [copyroom data](http://graphics.stanford
 ## Original picture:
 ![Original picture](https://github.com/sheMnapion/Graph-Based-Image-Segmentation/blob/master/testPictures/othavScene.jpg)
 ## Segmentation Result: (grayscale)
-Parameters set here as \sigma=1.0, k=2500
+Parameters set here as $\sigma=1.0, k=2500$
 ![Segmentation result](https://github.com/sheMnapion/Graph-Based-Image-Segmentation/blob/master/testPictures/output.jpg)
 ## Comparison:
 ![Comparison](https://github.com/sheMnapion/Graph-Based-Image-Segmentation/blob/master/testPictures/Segmentation%20Result.jpg)
