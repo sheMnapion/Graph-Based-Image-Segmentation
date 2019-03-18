@@ -6,8 +6,8 @@ At terminal, input "python graphBasedSegmentation.py" to run.
 # Some Results
 This picture borrows from other's repository.
 ## Original picture:
-![Original picture]("https://github.com/sheMnapion/Graph-Based-Image-Segmentation/master/testPictures/othavScene.jpg")
+![Original picture]("https://github.com/sheMnapion/Graph-Based-Image-Segmentation/blob/master/testPictures/othavScene.jpg")
 ## Segmentation Result: (grayscale)
-![Segmentation result](https://github.com/sheMnapion/Graph-Based-Image-Segmentation/master/testPictures/output.jpg)
+![Segmentation result](https://github.com/sheMnapion/Graph-Based-Image-Segmentation/blob/master/testPictures/output.jpg)
 ## Comparison:
-![Comparison](https://github.com/sheMnapion/Graph-Based-Image-Segmentation/master/testPictures/Segmentation%20Result.jpg)
+![Comparison](https://github.com/sheMnapion/Graph-Based-Image-Segmentation/blob/master/testPictures/Segmentation%20Result.jpg)
